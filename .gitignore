@@ -1,0 +1,12 @@
+/fastjson-java/target
+/fastjson-java/.project
+/fastjson-java/.settings
+/fastjson-java/.classpath
+/fastjson-java/.idea
+/fastjson-java/.DS_Store
+*.iml
+/fastjson-java/src/test/java/com/alibaba/json/bvt/parser/autoType/
+/fastjson-java/bin/
+/FastJson-master/.idea
+/FastJson-master/local.properties
+/FastJson-master/fastjson/.gitignore
