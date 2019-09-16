@@ -10,3 +10,5 @@
 /FastJson-master/.idea
 /FastJson-master/local.properties
 /FastJson-master/fastjson/.gitignore
+/FastJson-master/.gradle
+/FastJson-master/app/build
