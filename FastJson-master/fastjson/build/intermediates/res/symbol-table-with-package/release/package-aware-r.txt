@@ -1,2 +1,0 @@
-com.heshicaihao.fastjson
-string app_name
