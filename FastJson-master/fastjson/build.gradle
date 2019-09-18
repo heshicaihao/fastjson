@@ -22,8 +22,8 @@ android {
 }
 
 dependencies {
-    implementation files('libs/fastjson-1.2.60.jar')
-
+    implementation 'com.alibaba:fastjson:1.2.60'
+    implementation 'com.google.code.gson:gson:2.8.5'
 }
 
 //////// 打包发布配置开始 ////////
@@ -42,7 +42,7 @@ ext {
 
     PUBLISH_ARTIFACT_ID = 'fastjson'
 
-    PUBLISH_VERSION = '0.0.0'
+    PUBLISH_VERSION = '0.0.1'
 }
 
 uploadArchives {
